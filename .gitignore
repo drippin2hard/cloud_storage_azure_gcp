@@ -1,3 +1,4 @@
+# ignore GCP secret file
 gcp_secret.json
 
 
